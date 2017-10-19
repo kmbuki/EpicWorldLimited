@@ -1,6 +1,6 @@
 <!--//================Footer start==============//-->
         <footer class="main_footer">
-            <div class="top_footer">
+         <!--    <div class="top_footer">
                 <div class="container">
                     <div class="row">
                         <div class="footer-box">
@@ -35,7 +35,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="bottom-footer padTB20">
                 <div class="container">
                     <div class="row">

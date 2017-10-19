@@ -386,6 +386,9 @@ section {
 .padT90 {
     padding-top: 90px;
 }
+.padT75 {
+    padding-top: 75px;
+}
 .padT100 {
     padding-top: 100px;
 }
@@ -1733,7 +1736,7 @@ section.modal-agency-section {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-color: #ccc;
     z-index: 9999;
 }
 .preloader.loaderout {

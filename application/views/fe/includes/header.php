@@ -13,8 +13,10 @@
     
         <link href="<?php echo base_url(); ?>assets/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Dosis:200,300,400,500,600,700,800">
+        
         <link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
         <link href="<?php echo base_url();?>assets/plugin/megamenu/css/hover-dropdown-menu.css" rel="stylesheet">
+        
         <link href="<?php echo base_url();?>assets/plugin/fancyBox/css/jquery.fancybox.css" rel="stylesheet">
         <link href="<?php echo base_url();?>assets/plugin/owl-carousel/css/owl.carousel.css" rel="stylesheet"> 
         <link href="<?php echo base_url();?>assets/plugin/owl-carousel/css/owl.theme.default.css" rel="stylesheet"> 
@@ -52,11 +54,11 @@
                                         <span class="icon-bar"></span>
                                         </button> 
                                         <!-- Logo -->
-                                        <a class="navbar-brand" href="index.html">
-                                        <img class="site_logo" alt="Site Logo"  src="assets/img/logo.png" />
+                                        <a class="navbar-brand" href="<?php echo base_url();?>">
+                                        <img class="site_logo" alt="Site Logo"  src="<?php echo base_url();?>assets/img/logo.png" />
                                         </a>
                                         <div class="head-search hidden-lg hidden-md hidden-sm ">
-                                            <a href="index.html#" class="search-click"><i class="fa fa-search" aria-hidden="true"></i></a>
+                                            <a href="<?php echo base_url();?>" class="search-click"><i class="fa fa-search" aria-hidden="true"></i></a>
                                         </div>
                                     </div>
                                     <!-- Navbar Collapse -->
@@ -66,43 +68,23 @@
                                             <a href="index.html#" class="search-click"><i class="fa fa-search" aria-hidden="true"></i></a>
                                         </div>
                                         <ul class="nav navbar-nav">
-                                            <li><a href="index.html">home</a></li>
+
+                                            <!-- Home -->
+                                            <li class="<?php if ($cur == 'Home'){echo 'current-menu-parent'; } ?> menu-item">
+                                                <a href="<?php echo base_url();?>">Home</a>
+                                            </li>
+                                
+                                            <li class="<?php if ($cur == 'About'){echo 'current-menu-parent'; } ?> menu-item">
+                                                <a href="<?php echo base_url();?>about_us">ABOUT US</a>
+                                            </li>
+                                            
                                             <li>
-                                                <a href="index.html#">pages <i class="fa fa-angle-down hidden-lg hidden-md hidden-sm" aria-hidden="true"></i></a>
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="about-us.html">about us</a></li>
-                                                    <li><a href="error.html">error 404</a></li>
-                                                    <li><a href="comming-soon.html">comming soon</a></li>
-                                                </ul>
+                                                <a href="<?php echo base_url();?>portfolio">PORTFOLIO</a> 
                                             </li>
                                             <li>
-                                                <a href="index.html#">portfolio <i class="fa fa-angle-down hidden-lg hidden-md hidden-sm" aria-hidden="true"></i></a>
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="portfolio-style-1.html">portfolio style 1</a></li>
-                                                    <li><a href="portfolio-style-2.html">portfolio style 2</a></li>
-                                                    <li><a href="portfolio-style-3.html">portfolio style 3</a></li>
-                                                    <li><a href="portfolio-style-4.html">portfolio style 4</a></li>
-                                                </ul>
+                                                <a href="<?php echo base_url();?>blog">BLOG</a> 
                                             </li>
-                                            <li>
-                                                <a href="index.html#">blog <i class="fa fa-angle-down hidden-lg hidden-md hidden-sm" aria-hidden="true"></i></a> 
-                                                <ul class="dropdown-menu">
-                                                    <li><a href="blog-style-1.html">Blogs Style 1</a></li>
-                                                    <li><a href="blog-style-2.html">Blogs Style 2</a></li>
-                                                    <li><a href="blog-style-3.html">Blogs Style 3</a></li>
-                                                    <li><a href="blog-style-4.html">Blogs Style 4</a></li>
-                                                    <li class="left-side">
-                                                        <a href="index.html#">Single Blog <i class="fa fa-angle-down hidden-lg hidden-md hidden-sm" aria-hidden="true"></i>
-                                                        <i class="fa fa-angle-right hidden-xs" aria-hidden="true"></i>
-                                                        </a>
-                                                        <ul class="dropdown-menu">
-                                                            <li><a href="blog-single-sidebar.html">With Sidebar</a></li>
-                                                            <li><a href="blog-single-full-width.html">Without Sidebar</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">contact</a></li>
+                                            <li><a href="<?php echo base_url();?>contact_us">CONTACT US</a></li>
                                         </ul>
                                     </div>
                                     <!-- navbar-collapse -->
