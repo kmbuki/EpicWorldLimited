@@ -1,70 +1,91 @@
 ###################
-What is CodeIgniter
+What is EpicWorld
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Everyone needs photographs to capture the special moments of their lives. 
+People are busy, and if too much time goes by between photos, these moments are lost forever. 
+Babies, for instance, grow fast and parents need photos of them several times a year.
+These are things that nobody would see if you didn’t photograph them. 
+Epicworld is here for you - to help you capture and preserve this moments  with top quality 
+photographs at a fair and reasonable prices.
+
 
 *******************
-Release Information
+Mission Statement
 *******************
+Epicworld provides expressive, artistic photographic services, tailored to each client, 
+for those with a discerning taste for quality photography. We believe in creating dynamic, 
+comfortable photography sessions that allow the client to relax and reveal his or her true personality. 
+We also value individuality and understand that each client’s photographic style will be different, 
+making us passionate about getting to know each person. 
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+We will also conduct ourselves in a professional manner and represent our client’s best interests within the limits of our professional responsibilty. We will protect our client’s proprietary information and respect the privacy and property rights of our subjects.
 
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
-Server Requirements
+Services We offer
 *******************
 
-PHP version 5.6 or newer is recommended.
 
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+Portrait Photography:  Personnal portrait, family photo, editorial portrait for publishing advertising and websites.
 
-************
-Installation
-************
+Corporate Portrait:  business people, work team and staff, adminstration boards, annual report, business portfolio of the people in the partners and associates in your company.
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+Event Photography:  conferences, conventions, launching, concerts, shows, documentary photographs of exhibitions, festivals, weddings, graduations, anniversaries, competitions, demonstrations, tournements.
 
-*******
-License
-*******
+Artists and Public Figures:  Album cover, posters, presse photos, artistic productions, web sites, blogues and calendors.
+
+Architectural and Commercial photography:  architecture, real estate, service or product advertising campaigns, business portfolios, theater and movie set photography,
+
+Beauty and fashion photography:  model and casting portfolios for actors, musicians, artists
+
+
+Hair and makeup styling services
+
+
+Videography
+
+Video Production
+
+Filming
+
+Video Editing
+
+Conference and Lecture Recording
+Explainer videos
+Training videos
+Wedding videography
+Short Documentary
+Corporate Events
+Aerial filming
+Digitising and Encoding
+Animations
+
+Webverts and Podcasts - Webverts are short video advertisements for your company hosted on-line, either on your web site or on an alternative server like YouTube or Vimeo.
+
+
+
+Printing
+
+Mounting
+Printing pictures
+
+
+
+Shop
+Photography accessories
+
+
+*********************
+License for this code
+*********************
 
 Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community IRC <https://webchat.freenode.net/?channels=%23codeigniter>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
 Acknowledgement
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+Hypertech Solutions Kenya Limited
