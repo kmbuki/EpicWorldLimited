@@ -133,3 +133,7 @@ $autoload['language'] = array();
 |	$autoload['model'] = array('first_model' => 'first');
 */
 $autoload['model'] = array();
+
+/* autoload url helper */
+
+$autoload['helper'] = array('url');
