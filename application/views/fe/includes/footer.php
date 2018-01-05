@@ -10,12 +10,11 @@
 			<!-- Spacer For Mobile Ends -->
 			<!-- Social Media Links Starts -->
 				<ul class="list-unstyled list-inline animation pull-right-lg pull-right-md pull-right-sm">
-					<li><a href="index.html#"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="index.html#"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="index.html#"><i class="fa fa-pinterest"></i></a></li>
-					<li><a href="index.html#"><i class="fa fa-google-plus"></i></a></li>
-					<li><a href="index.html#"><i class="fa fa-tumblr"></i></a></li>
-					<li><a href="index.html#"><i class="fa fa-youtube-play"></i></a></li>
+					<li><a href="https://www.facebook.com/EpicWorldDesigns/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://plus.google.com/u/0/110292728915220527486" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+					<li><a href="https://www.instagram.com/epicworldphotography/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+					
+					<!-- Add youtube / Vimeo channel -->
 				</ul>
 			<!-- Social Media Links Ends -->
 			</div>

@@ -21,13 +21,13 @@
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right animation text-uppercase">
 							<li class="current"><a href="index.html#main-slider">Home</a></li>
-							<li><a href="index.html#about">About Us</a></li>
-							<li><a href="index.html#services">Services</a></li>
-							<li><a href="index.html#portfolio">Portfolio</a></li>
-							<li><a href="index.html#what-we-do">What We Do</a></li>
-							<li><a href="index.html#testimonials">Testimonails</a></li>				
-							<li><a href="index.html#blog">Blog</a></li>
-							<li><a href="index.html#contact">Contact Us</a></li>
+							<li><a href="#">About Us</a></li>
+							<li><a href="#">Services</a></li>
+							<li><a href="#">Portfolio</a></li>
+							<li><a href="#">What We Do</a></li>
+							<li><a href="#">Testimonails</a></li>				
+							<li><a href="#">Blog</a></li>
+							<li><a href="#">Contact Us</a></li>
 						</ul>
 					</div>
 				<!-- Navbar Collapse Ends -->
@@ -41,14 +41,19 @@
 				<div class="carousel-inner">
 				<!-- Slide #1 Starts -->
 					<div class="item active">
-						<img src="<?php echo base_url();?>assets/images/slider/slider-img1.jpg" alt="Slide 1" class="img-responsive">						
+						<img src="<?php echo base_url();?>assets/images/slider/slider1.jpg" alt="Slide 1" class="img-responsive">						
 					</div>
 				<!-- Slide #1 Ends -->
 				<!-- Slide #2 Starts -->
 					<div class="item">
-						<img src="<?php echo base_url();?>assets/images/slider/slider-img2.jpg" alt="Slide 2" class="img-responsive">
+						<img src="<?php echo base_url();?>assets/images/slider/slider2.jpg" alt="Slide 2" class="img-responsive">
 					</div>
 				<!-- Slide #2 Ends -->
+				<!-- Slide #3 Starts -->
+					<div class="item">
+						<img src="<?php echo base_url();?>assets/images/slider/slider3.jpg" alt="Slide 2" class="img-responsive">
+					</div>
+				<!-- Slide #3 Ends -->
 				</div>
 			<!-- Wrapper For Slides Ends -->
 			<!-- Control Starts -->
