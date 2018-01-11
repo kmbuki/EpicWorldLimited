@@ -13,14 +13,11 @@ photographs at a fair and reasonable prices.
 *******************
 Mission Statement
 *******************
-Epicworld provides expressive, artistic photographic services, tailored to each client, 
-for those with a discerning taste for quality photography. We believe in creating dynamic, 
-comfortable photography sessions that allow the client to relax and reveal his or her true personality. 
-We also value individuality and understand that each client’s photographic style will be different, 
-making us passionate about getting to know each person. 
+We are here to provide you with expressive, artistic photographic services, tailored for those with a discerning taste for quality photography. 
+
+We believe in creating dynamic, comfortable photography sessions that allow our clients to relax and reveal their true personality. We also value individuality and understand that each client’s photographic style will be different, making us passionate about getting to know each person. 
 
 We will also conduct ourselves in a professional manner and represent our client’s best interests within the limits of our professional responsibilty. We will protect our client’s proprietary information and respect the privacy and property rights of our subjects.
-
 
 *******************
 Services We offer

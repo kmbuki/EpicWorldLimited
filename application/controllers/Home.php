@@ -10,39 +10,11 @@ class Home extends CI_Controller {
 		$data['cur'] = 'Home';
 		$this->load->view('fe/includes/template',$data);
 	}
-	// About Us
-	public function about_us(){
-        $data['main_content'] = 'fe/about_us';
-        $data['page_title'] ='About Us - ';
-        $data['cur'] = 'About';
-        $this->load->view('fe/includes/template',$data);
-    }
-	// Portfolio
-    public function portfolio(){
-        $data['main_content'] = 'fe/portfolio';
-        $data['page_title'] ='Portfolio';
-        $data['cur'] = 'Portfolio';
-        $this->load->view('fe/includes/template',$data);
-    }
 	// Shop
-    public function shop(){
-        $data['main_content'] = 'fe/shop';
-        $data['page_title'] ='Shop';
-        $data['cur'] = 'Shop';
-        $this->load->view('fe/includes/template',$data);
-    }
-	// Blog
-    public function blog(){
-        $data['main_content'] = 'fe/blog';
-        $data['page_title'] ='Blog';
-        $data['cur'] = 'Blog';
-        $this->load->view('fe/includes/template',$data);
-    }
-	// Contact
-	public function contact_us(){
-        $data['main_content'] = 'fe/contact_us';
-        $data['page_title'] ='Contact Us';
-        $data['cur'] = 'Contact Us';
-        $this->load->view('fe/includes/template',$data);
-    }
+    // public function shop(){
+    //     $data['main_content'] = 'fe/shop';
+    //     $data['page_title'] ='Shop';
+    //     $data['cur'] = 'Shop';
+    //     $this->load->view('fe/includes/template',$data);
+    // }
 }

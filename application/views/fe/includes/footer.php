@@ -3,7 +3,7 @@
 		<!-- Nested Container Starts -->
 			<div class="container clearfix text-center-xs">
 			<!-- Copyright Text Starts -->
-				<p class="pull-left-lg pull-left-md pull-left-sm">&copy; Powered by <a href="hypertechsolutions.co.ke" target="_blank">Hypertech Solutions Kenya </a></p>
+				<p class="pull-left-lg pull-left-md pull-left-sm">Epicworld Designs Limited &copy; 2018 | Powered by <a href="hypertechsolutions.co.ke" target="_blank">Hypertech Solutions Kenya </a></p>
 			<!-- Copyright Text Ends -->
 			<!-- Spacer For Mobile Starts -->
 				<div class="spacer-sm visible-xs-block"></div>
