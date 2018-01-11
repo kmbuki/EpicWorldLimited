@@ -127,7 +127,7 @@
 						<!-- Progress List #1 Starts -->
 							<li>
 								<h4 class="clearfix">
-									<span class="pull-left text-weight-bold">Designing</span>
+									<span class="pull-left text-weight-bold">Photography</span>
 									<span class="pull-right text-weight-light">95%</span>
 								</h4>
 								<div class="progress flat">
@@ -140,12 +140,12 @@
 						<!-- Progress List #2 Starts -->
 							<li>
 								<h4 class="clearfix">
-									<span class="pull-left text-weight-bold">Photography</span>
-									<span class="pull-right text-weight-light">65%</span>
+									<span class="pull-left text-weight-bold">Video Production</span>
+									<span class="pull-right text-weight-light">85%</span>
 								</h4>
 								<div class="progress flat">
-									<div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-										<span class="sr-only">65% Complete</span>
+									<div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+										<span class="sr-only">85% Complete</span>
 									</div>
 								</div>
 							</li>
@@ -153,7 +153,7 @@
 						<!-- Progress List #3 Starts -->
 							<li>
 								<h4 class="clearfix">
-									<span class="pull-left text-weight-bold">Search Enigne Optimization</span>
+									<span class="pull-left text-weight-bold">Short Documentary</span>
 									<span class="pull-right text-weight-light">80%</span>
 								</h4>
 								<div class="progress flat">
@@ -166,11 +166,11 @@
 						<!-- Progress List #4 Starts -->
 							<li>
 								<h4 class="clearfix">
-									<span class="pull-left text-weight-bold">Digital Marketing</span>
-									<span class="pull-right text-weight-light">40%</span>
+									<span class="pull-left text-weight-bold">Webverts and Podcasts</span>
+									<span class="pull-right text-weight-light">50%</span>
 								</h4>
 								<div class="progress flat">
-									<div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
+									<div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;">
 										<span class="sr-only">40% Complete</span>
 									</div>
 								</div>
@@ -179,11 +179,11 @@
 						<!-- Progress List #5 Starts -->
 							<li>
 								<h4 class="clearfix">
-									<span class="pull-left text-weight-bold">Product Development</span>
-									<span class="pull-right text-weight-light">90%</span>
+									<span class="pull-left text-weight-bold">Hair and makeup styling for events</span>
+									<span class="pull-right text-weight-light">60%</span>
 								</h4>
 								<div class="progress flat">
-									<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
+									<div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
 										<span class="sr-only">90% Complete</span>
 									</div>
 								</div>
@@ -214,7 +214,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-moon-o"></i>
-							<h4>Complete Resource</h4>
+							<h4>Photography</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -223,7 +223,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-ioxhost"></i>
-							<h4>Minimal Design</h4>
+							<h4>Video Production</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -232,7 +232,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-lightbulb-o"></i>
-							<h4>New Creative Ideas</h4>
+							<h4>Short Documentary and Interviews</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -241,7 +241,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-heart-o"></i>
-							<h4>Development Service</h4>
+							<h4>Design and Printing</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -250,7 +250,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-bullhorn"></i>
-							<h4>Audio Visual Services</h4>
+							<h4>Webverts and Podcasts</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -259,7 +259,7 @@
 					<div class="col-md-4 col-sm-6 col-xs-12">
 						<div class="services-box">
 							<i class="fa fa-life-bouy"></i>
-							<h4>All Time Support</h4>
+							<h4>Hair and Makeup Services</h4>
 							<p>When it comes to corporate events and business happenings, there might be a lot of audiovisual presentations that also need to be properly..</p>
 						</div>
 					</div>
@@ -452,14 +452,14 @@
 					<div class="row">
 						<h2 class="section-heading-1 inverse text-uppercase">LET’S TALK SHOP</h2>
 						<p>
-							We have pre-set packages with our most popular offerings all together in individual packages. We also have hourly coverage options and many additional items on our list of add-ons. Our wedding clients can either choose from an existing collection or create their own. &nbsp;This truly makes our pricing flexible, customizable, and a fit for everyone’s needs. &nbsp;If you’d like to receive our current wedding photography rates, just contact us here!
+							We have pre-set packages with our most popular offerings all together in individual packages. We also have hourly coverage options and many additional items on our list of add-ons. Our wedding clients can either choose from an existing collection or create their own. &nbsp;This truly makes our pricing flexible, customizable, and a fit for everyone’s needs. &nbsp;If you’d like to receive our current photography rates, just contact us here!
 						</p>	
 	<!-- Contact Form Starts -->
 						<form id="main-contact-form" class="contact-form" name="contact-form" method="post" action="http://ecommerceforest.com/wrap/Folio-Plus/V2.6/demo-sites/mini-portfolio/sendemail.php">
 						<!-- Email Field Starts -->
 							<div class="form-group col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">
 								<label for="contact-email" class="sr-only">E-Mail: </label>
-								<input type="email" class="form-control br-3 animation-1" name="contact-email" id="contact-email" required="required" placeholder="E-Mail *">
+								<input type="email" class="form-control br-3 animation-1" name="contact-email" id="contact-email" required="required" placeholder="Email Address *">
 							</div>
 						<!-- Email Field Ends -->
 						<!-- Submit Button Starts -->
@@ -592,7 +592,7 @@
 				<div class="row text-center">
 					<div class="col-md-8 col-sm-10 col-xs-12 col-md-offset-2 col-sm-offset-1">
 						<h2 class="section-heading-1 text-uppercase">Reach Us</h2>
-						<p class="text-color-grey">You’d love to have a chat about your wedding plans with us? Fill out the contact sheet below and we shall get in touch with you.</p>
+						<p class="text-color-grey">You’d love to have a chat about your photography plans with us? Fill out the contact sheet below and we shall get in touch with you.</p>
 					</div>
 				</div>
 			<!-- Section Title & Sub Ends -->

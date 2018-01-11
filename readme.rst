@@ -24,53 +24,25 @@ Services We offer
 *******************
 
 
-Portrait Photography:  Personnal portrait, family photo, editorial portrait for publishing advertising and websites.
-
-Corporate Portrait:  business people, work team and staff, adminstration boards, annual report, business portfolio of the people in the partners and associates in your company.
-
-Event Photography:  conferences, conventions, launching, concerts, shows, documentary photographs of exhibitions, festivals, weddings, graduations, anniversaries, competitions, demonstrations, tournements.
-
-Artists and Public Figures:  Album cover, posters, presse photos, artistic productions, web sites, blogues and calendors.
-
-Architectural and Commercial photography:  architecture, real estate, service or product advertising campaigns, business portfolios, theater and movie set photography,
-
-Beauty and fashion photography:  model and casting portfolios for actors, musicians, artists
+Photography:  Personnal portrait, family photo, editorial portrait for publishing advertising and websites, conferences, conventions, launching, concerts, shows, documentary photographs of exhibitions, festivals, weddings, graduations, anniversaries, competitions, demonstrations, tournements etc
 
 
-Hair and makeup styling services
+Video Production: Filming, Video Editing, Conference and Lecture Recording, Explainer videos, Training videos, Wedding videography, , Corporate Events, Aerial filming, Digitising and Encoding, Animations
 
 
-Videography
+Short Documentary and Interviews: 
 
-Video Production
 
-Filming
+Hair and makeup styling services consultancy
 
-Video Editing
-
-Conference and Lecture Recording
-Explainer videos
-Training videos
-Wedding videography
-Short Documentary
-Corporate Events
-Aerial filming
-Digitising and Encoding
-Animations
 
 Webverts and Podcasts - Webverts are short video advertisements for your company hosted on-line, either on your web site or on an alternative server like YouTube or Vimeo.
 
 
-
-Printing
-
-Mounting
-Printing pictures
+Design: Mounting, Printing pictures
 
 
-
-Shop
-Photography accessories
+Shop: Coming soon - Latest Photography accessories
 
 
 *********************
